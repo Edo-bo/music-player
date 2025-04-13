@@ -12,8 +12,8 @@ const API_URL = {
 // App defaults
 const APP_DEFAULTS = {
     DEFAULT_SEARCH: 'popular songs 2025',
-    MAX_RECENT_ITEMS: 10,
-    MAX_QUEUE_ITEMS: 5,
+    MAX_RECENT_ITEMS: 20,
+    MAX_QUEUE_ITEMS: 15,
     STORAGE_KEY: 'recentlyPlayed'
 };
 
